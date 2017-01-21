@@ -1,0 +1,45 @@
+body {
+    font-family: "Lato", sans-serif;
+    color: #2d3c49;
+}
+
+header {
+    border-bottom: 2px solid #7d97ad;
+}
+
+h3 {
+    color: #7d97ad;
+}
+
+a {
+    text-decoration: none;
+    color: #2d3c49;
+}
+
+.logo {
+    width: 100px;
+    padding: 15px;
+}
+
+.name,
+.title {
+    text-transform: uppercase;
+}
+
+.name {
+    font-weight: 300;
+}
+
+.title {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.portifolio {
+    margin-top: 30px;
+}
+
+.work {
+    text-align: center;
+    margin-bottom: 20px;
+}

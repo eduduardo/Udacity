@@ -1,0 +1,21 @@
+/* add your CSS here */
+#animal-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px
+}
+#animal-name, .animal-curiosity {
+    font-style: italic;
+}
+.animal-label {
+    font-weight: 700;
+}
+#animal-info {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+}
+.animal-facts {
+    list-style: none;
+    padding: 0
+}

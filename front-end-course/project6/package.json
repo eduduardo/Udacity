@@ -1,0 +1,24 @@
+{
+  "name": "frontend-nanodegree-mobile-portfolio",
+  "version": "1.0.0",
+  "description": "This repository is a challenge for make this portifolio project optimize by applying the techniques for optimize the critical rendering path and make page render as quickly as possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "edu",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-imagemin": "^3.1.1",
+    "gulp-inline": "^0.1.3",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
